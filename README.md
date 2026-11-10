@@ -2,7 +2,8 @@
 
 An end-to-end Excel analysis of WFP food assistance across the Kakuma Refugee Camp and Kalobeyei Integrated Settlement in Turkana County, Kenya (January 2023 to December 2025). It includes a cleaned dataset, pivot table analysis, and an interactive Excel dashboard for WFP management.
 
-![Dashboard preview](dashboard.png)
+![Dashboard preview](![Uploading image.png…]()
+)
 
 ## Business Problem
 
