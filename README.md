@@ -88,4 +88,4 @@ Microsoft Excel: PivotTables, PivotCharts, Slicers, `SUMIF`, `COUNTA`, `TEXT`, `
 ## Author
 
 **Alek**, Data Analytics student, ARel Data Science Program
-[www.linkedin.com/in/monicah-majok] | [Portfolio link]
+[www.linkedin.com/in/monicah-majok] | [https://github.com/majormonicahalek-gif]
